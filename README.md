@@ -1,6 +1,6 @@
 # VA-SAM
 
-#### [📌] We have modified key parameters, and we will release the full details once the paper is accepted!
+#### [📌] We will release the full details once the paper is accepted!
 
 This repository is the official implementation of the paper VA-SAM.
 
